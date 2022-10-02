@@ -7,3 +7,4 @@
 - Add to Cart
 - Hover Cart Icon and Click Checkout
 - Provide all information on this page
+## please find the details report from the attachment and let me know if you have any further queries.
