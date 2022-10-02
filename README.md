@@ -1,5 +1,5 @@
 # Web Automation project on printsbd.com website 
-### Tested Components are:-
+### Tested steps are:-
 - Visit the website
 - Hover বাংলা and Select উপন্যাস
 - Scroll Down and Go to the Next Page
