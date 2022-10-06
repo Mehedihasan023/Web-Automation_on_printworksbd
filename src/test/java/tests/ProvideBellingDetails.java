@@ -50,7 +50,7 @@ public class ProvideBellingDetails extends BaseDriver{
 	@Test(priority = 2)
 	public void fillLastName() throws IOException {
 		childTest = parentTest
-				.createNode("<p style=\"color:DarkBlue; font-size:20px\"><b>provide name.</b></p>");
+				.createNode("<p style=\"color:DarkBlue; font-size:20px\"><b>provide last name.</b></p>");
 		BellingDetails bellingdetails = new BellingDetails(childTest);
 		bellingdetails.fillLastName();
 	}
